@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "webstorm mern",
+  "mongoUri": "mongodb+srv://Ahan:12345a@cluster0.39zot.mongodb.net/app?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
